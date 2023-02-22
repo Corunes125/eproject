@@ -1,0 +1,3 @@
+repository : eproject
+remote : origin
+branch : corunes
